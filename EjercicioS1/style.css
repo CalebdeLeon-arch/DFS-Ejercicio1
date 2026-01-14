@@ -12,8 +12,13 @@ body {
 
 header {
     background: #333;
-    color: white;
+    color: rgb(244, 243, 243);
     padding: 1rem;
+}
+.padre{
+    background: #e30f0f;
+    height: 300px;
+    width: 300px;
 }
 
 nav {
